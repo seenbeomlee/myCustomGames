@@ -18,6 +18,16 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Enum.h" />
+    <ClInclude Include="Map.h" />
+    <ClInclude Include="Object.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Map.cpp" />
+    <ClCompile Include="Object.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <ProjectGuid>{58529D66-27E9-49A6-980B-F4297BF6CF4F}</ProjectGuid>
@@ -138,16 +148,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClInclude Include="..\..\customGames\customGames\Enum.h" />
-    <ClInclude Include="..\..\customGames\customGames\Map.h" />
-    <ClInclude Include="..\..\customGames\customGames\Object.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="..\..\customGames\customGames\main.cpp" />
-    <ClCompile Include="..\..\customGames\customGames\Map.cpp" />
-    <ClCompile Include="..\..\customGames\customGames\Object.cpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
