@@ -28,6 +28,21 @@
     <ClCompile Include="Map.cpp" />
     <ClCompile Include="Object.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="stage1.txt" />
+    <Text Include="stage10.txt" />
+    <Text Include="stage2.txt" />
+    <Text Include="stage3.txt" />
+    <Text Include="stage4.txt" />
+    <Text Include="stage5.txt" />
+    <Text Include="stage6.txt" />
+    <Text Include="stage7.txt" />
+    <Text Include="stage8.txt" />
+    <Text Include="stage9.txt" />
+    <Text Include="stageEX1.txt" />
+    <Text Include="stageEX2.txt" />
+    <Text Include="stageEX3.txt" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <ProjectGuid>{58529D66-27E9-49A6-980B-F4297BF6CF4F}</ProjectGuid>

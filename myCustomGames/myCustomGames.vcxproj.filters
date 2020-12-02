@@ -36,4 +36,45 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="stage1.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="stage2.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="stage3.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="stage4.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="stage5.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="stage6.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="stage7.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="stage8.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="stage9.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="stage10.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="stageEX1.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="stageEX2.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="stageEX3.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+  </ItemGroup>
 </Project>
